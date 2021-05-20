@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Preubas en el archivo principal GifExpertApp Debe de coincidir con el Snapshot 1`] = `
+<Fragment>
+  <h1
+    id="title"
+  >
+    GifExpertApp
+  </h1>
+  <h4>
+    Que Gif Estas Buscando?
+  </h4>
+  <AddCategory
+    setcategory={[Function]}
+  />
+  <hr />
+  <ol>
+    <GifGrid
+      category="WELCOME"
+      key="WELCOME"
+    />
+  </ol>
+</Fragment>
+`;
